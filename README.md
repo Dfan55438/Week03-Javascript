@@ -4,6 +4,6 @@
 * Javascript
 ### View my Deployed link here:  https://dfan55438.github.io/Week03-Javascript/
 
-(./Assets/passwordgenerator SS.jpg)
+(./Assets/passwordgenerator-SS.jpg)
 
 
